@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Client">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAQAIEIAAAgCgAQAAgAAAgAAQ=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QtClient">
+    <Position X="17.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>QtClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CombinariClass">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CombinariClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PermutariClass">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>PermutariClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CramerClass">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CramerClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PolinomClass">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>PolinomClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntegralaClass">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAIAA=</HashCode>
+      <FileName>IntegralaClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpTrigonometriceClass">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>OpTrigonometriceClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogaritmClass">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>LogaritmClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcGradIIClass">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>EcGradIIClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcGradICONClass">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAEAAAAA=</HashCode>
+      <FileName>EcGradICONClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EcGradIFGClass">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>EcGradIFGClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PutereClass">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>PutereClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadicalClass">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEEAAAA=</HashCode>
+      <FileName>RadicalClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COTANGENTAClass">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAACAA=</HashCode>
+      <FileName>COTANGENTAClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARCCOSClass">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEgAAAA=</HashCode>
+      <FileName>ARCCOSClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARCSINUSClass">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAAAAEAAAAA=</HashCode>
+      <FileName>ARCSINUSClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARCTANGENTA">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ARCTANGENTA.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARCCOTANGENTAClass">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAECAAAA=</HashCode>
+      <FileName>ARCCOTANGENTAClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AranjamenteClass">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>AranjamenteClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TANGENTAClass">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TANGENTAClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VectorClass">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>VectorClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SINClass">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAEAAAAA=</HashCode>
+      <FileName>SINClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COSClass">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>COSClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QtGuiClass">
+    <Position X="15.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAEEAAAAAAAAAAAAAAAAAAAAAAACEAAAAA=</HashCode>
+      <FileName>QtGuiClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
